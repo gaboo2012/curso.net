@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpUAUKr/lUv7tCoXW97IQz15BZue3urh9qXQ0r38Md3wfdz9qSY8u+mRTHKLllI493WTvhRMxQtptZV6iWRZ1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musimundo\\Desktop\\CURSOS\\Curso-de-C-Sharp-master\\Curso-de-C-Sharp-master\\CarritoDeCompras\\CarritoDeCompras\\CarritoDeCompras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musimundo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\musimundo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\musimundo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\musimundo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
